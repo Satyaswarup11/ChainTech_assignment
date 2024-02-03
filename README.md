@@ -38,15 +38,14 @@ Make sure you have the following installed before running the application:
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/react-account-management.git
-   ```
+```bash
+git clone https://github.com/Satyaswarup11/ChainTech_assignment.git
+ ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-account-management
+cd ChainTech_assignment
 ```
 
 3. Install dependencies:
@@ -55,12 +54,16 @@ cd react-account-management
 npm install
 ```
 
+```bash
+npm install reacter-router-dom
+```
+
 ## Usage
 
 1. Run the development server:
-   ```bash
-   npm start
-   ```
+```bash
+npm start
+```
 2.Open your browser and visit http://localhost:3000 to view the app.
 
 ## Folder Structure
