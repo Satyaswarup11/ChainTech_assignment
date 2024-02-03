@@ -17,7 +17,7 @@ const Registration = () => {
       localStorage.setItem('password', password);
 
       // Redirect to home page after registration
-      navigate('/');
+      navigate('/login');
     }
   };
 
